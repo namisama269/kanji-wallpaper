@@ -1,0 +1,27 @@
+Image width: 3830
+Image height: 2174
+
+Random seed: None
+Save path: allcolor.png
+
+Kanji size: 26
+Character font: Arial Unicode.ttf
+Margin: 10
+
+Background color: #ffffff
+Text color: #000000
+Use text color for all levels: False
+Use kanken levels: 10 9 8 7 6 5 4 3 j2 2 j1 1
+
+10級 text color: #ff21b3
+9級 text color: #8a94ff
+8級 text color: #beed09
+7級 text color: #00cfff
+6級 text color: #6300a5
+5級 text color: #ffc900
+4級 text color: #ef005f
+3級 text color: #2bbd97
+準2級 text color: #ff6100
+2級 text color: #0055a4
+準1級 text color: #750000
+1級 text color: #065839
